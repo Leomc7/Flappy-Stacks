@@ -16,4 +16,12 @@ Follow these steps to run the game on your local machine:
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/Leomc7/Flappy-Stacks.git  
+   git clone https://github.com/Leomc7/Flappy-Stacks.git
+
+2.Navigate to the project folder
+    ```bash
+   cd Flappy-Stacks
+
+   3.Install the required dependencies:
+   ```bash 
+   pip install pygame
