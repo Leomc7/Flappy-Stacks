@@ -26,7 +26,7 @@ Follow these steps to run the game on your local machine:
    ```bash
      python flappy_stacks.py
 
-   ![image](https://github.com/user-attachments/assets/5684745e-3555-49a2-a090-0b59246d02b5)
+![image](https://github.com/user-attachments/assets/5684745e-3555-49a2-a090-0b59246d02b5)
    ![image](https://github.com/user-attachments/assets/8cfeee45-6331-4260-840e-4f445fda1944)
    ![image](https://github.com/user-attachments/assets/25f016c7-2db9-46fb-9b94-ca89830260e1)
 
